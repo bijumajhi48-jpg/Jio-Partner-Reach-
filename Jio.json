@@ -1,9 +1,9 @@
 [
     {
-        "device_id": "d5e9c59e131d1237",
-        "username": "Biju",
+        "device_id": "06736b3b3c7ce7c5",
+        "username": "Amit",
         "password": "123456",
-        "expirydate": "28-06-2026",
+        "expirydate": "26-06-2026",
         "Allowoffline": false
     },
     {
@@ -14,8 +14,8 @@
         "Allowoffline": false
     },
     {
-        "device_id": "06736b3b3c7ce7c5",
-        "username": "Amit",
+        "device_id": "d5e9c59e131d1237",
+        "username": "Biju",
         "password": "123456",
         "expirydate": "26-06-2026",
         "Allowoffline": false
